@@ -1,0 +1,53 @@
+{
+  "artist": {
+    "name": "ALLEN KS",
+    "fullName": "Alan Josue Diaz",
+    "location": "Buenos Aires, Argentina"
+  },
+  "socials": {
+    "spotify": "https://open.spotify.com/artist/2Qutt1ypoIqkTMZEELO8TZ",
+    "soundcloud": "https://soundcloud.com/allenksmusic",
+    "youtube": "https://www.youtube.com/@allenksmusic",
+    "instagram": "https://www.instagram.com/allenksmusic/",
+    "email": "soyallenks@gmail.com"
+  },
+  "releases": [
+    {
+      "title": "RIDDIM RIOT",
+      "artist": "ALLEN KS",
+      "type": "Original",
+      "artwork": "riddim-riot.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/riddim-riot",
+      "download": "https://droploud.com/track/c1796463-b441-4956-a035-571a3252d75a"
+    },
+    {
+      "title": "Damage",
+      "artist": "Virtual Riot & DIESEL · ALLEN KS Remix",
+      "type": "Remix",
+      "artwork": "damage.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/virtual-riot-diesel-damage-allen-ks-remix-feat-shaquille-oneal"
+    },
+    {
+      "title": "BUST IT",
+      "artist": "ALLEN KS",
+      "type": "Original · Visuals",
+      "artwork": "bust-it.jpg",
+      "youtube": "ki1cUmKv_5Y"
+    }
+  ],
+  "studio": {
+    "title": "Euronymous — Walkthrough #1",
+    "video": "TVL0ZiSOXPg"
+  },
+  "live": {
+    "title": "ALLEN KS · DJ set en vivo #1",
+    "video": "xRdMRdaIlZQ",
+    "start": 384,
+    "description": "Otra Noche ft. Dancing Budhas"
+  },
+  "shows": [],
+  "projects": {
+    "spartans": "https://soundcloud.com/spartanslabel",
+    "otraNoche": "https://wa.me/5491136133976?text=Hola%20Allen%20KS%2C%20quiero%20consultar%20por%20Otra%20Noche%20y%20entradas."
+  }
+}

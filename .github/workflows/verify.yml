@@ -1,0 +1,20 @@
+name: Verify approved design
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build.mjs
+      - run: node --test tests/site.test.mjs
+      - run: node --check src/assets/app.js
+      - run: git diff --exit-code -- dist
+      - uses: actions/upload-artifact@v4
+        with:
+          name: approved-design-static
+          path: dist
