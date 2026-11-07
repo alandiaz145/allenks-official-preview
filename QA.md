@@ -10,3 +10,13 @@
 - Build estático y sintaxis de JavaScript aprobados. No se necesitan dependencias para compilar.
 
 Límites: no se probaron compras ni se enviaron mensajes; los enlaces sociales/contacto provienen de datos del usuario o fuentes públicas originales. Los proveedores pueden aplicar restricciones regionales o requerir otro toque en móviles. No se prometen cursos o descargas que no existan.
+
+## Verificación posterior al despliegue
+
+Cloudflare Pages confirmó éxito y 12/12 archivos cargados en el proyecto nuevo allenks-official-preview, dentro de la cuenta que la sesión Edge identifica como Ninshaarmy. La cuenta contiene la conexión a alandiaz145; no se tocaron Spartans Label, Control, dominios ni DNS. URL comprobada en Edge: https://allenks-official-preview.pages.dev/.
+
+Se volvieron a medir los seis anchos en esa URL: documento sin desborde horizontal y cero iframes al inicio. SoundCloud Damage mostró su widget y pista oficial; BUST IT mostró su reproductor oficial de YouTube. El set xRdMRdaIlZQ se vio efectivamente en reproducción después de cambiar al reproductor estándar. Capturas desktop y móvil guardadas y entregadas en el chat.
+
+GitHub Actions completó correctamente el build, las tres pruebas, la comprobación de sintaxis y la reproducibilidad de dist: https://github.com/alandiaz145/allenks-official-preview/actions/runs/42357122735.
+
+La compilación verificada y desplegada corresponde al código del commit ee7ddd7efd9fb825d9b42500e78702a55155ed6c. Esta actualización posterior agrega solo documentación. La prueba no incluye certificación Lighthouse/Core Web Vitals: el navegador de automatización no expone la API de tiempos. Se comprobaron carga visual de recursos, reproducción a pedido y ausencia de descargas de iframes en la entrada. El paquete estático ocupa aproximadamente 3 MB; el mayor activo es la imagen de referencia original autorizada.

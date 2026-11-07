@@ -1,5 +1,9 @@
 # ALLEN KS — diseño aprobado
 
+Vista previa comprobada en Microsoft Edge: https://allenks-official-preview.pages.dev/
+
+Repositorio independiente: https://github.com/alandiaz145/allenks-official-preview
+
 Proyecto independiente de alandiaz145/allenks-web-v2. No contiene el historial, configuración de despliegue ni datos de Allen KS Control. La web oficial y el PR anterior permanecen intactos.
 
 HTML, CSS y JavaScript estáticos. Sin dependencias de ejecución, servicios pagos, base de datos ni claves. `src/` es la fuente; `dist/` se genera con Node (`scripts/build.mjs`) y se entrega a un proyecto de prueba separado. El workflow solo construye y prueba; no despliega.
