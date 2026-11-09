@@ -10,11 +10,11 @@ HTML, CSS y JavaScript estáticos. Sin dependencias de ejecución, servicios pag
 
 ## Contenido
 
-Editar `content/site.json` para actualizar lanzamientos, enlaces, video de estudio, set y shows. Se muestran los primeros tres lanzamientos; el botón de catálogo abre SoundCloud. Un release necesita un `soundcloud` público o un ID de `youtube`, `title`, `artist` y archivo `artwork` bajo src/assets. No agregar tokens privados. La imagen del primer lanzamiento aparece al frente de la pila.
+Editar `content/site.json` para actualizar lanzamientos, enlaces, video de estudio, set y shows. Inicio muestra la descarga gratuita confirmada; musica.html contiene el catálogo con filtro. Los botones principales navegan dentro del sitio. Un release necesita un `soundcloud` público o un ID de `youtube`, `title`, `artist` y archivo `artwork` bajo src/assets. No agregar tokens privados. La imagen del primer lanzamiento aparece al frente de la pila.
 
 Los shows requieren `confirmed:true`, `date` ISO con zona horaria, `venue`, `city` y opcional `url`. El build excluye fechas vencidas/no confirmadas y el navegador retira fechas vencidas al abrir. Hoy no hay futuras fechas confirmadas cargadas. No se publica el dato no confirmado de Arkham.
 
-La historia y los textos editoriales se editan en `src/index.html`. La historia ampliada usa details accesible. Dubstep Academia abre recursos de producción reales dentro de esta página: no se inventó una web externa, cursos, inscripciones ni un logo oficial inexistente. Los símbolos de proyectos son iconos de navegación, no recreaciones de marcas. Otra Noche consulta WhatsApp con el número que ya estaba publicado en el repositorio anterior; no envía mensajes automáticamente.
+La portada se edita en src/index.html y src/pages/hero.html; historia, productos, música, estudio y en vivo están separados en src/pages/. El layout común es src/layout.html. La historia ampliada usa details accesible. Dubstep Academia abre recursos de producción reales en estudio.html: no se inventó una web externa, cursos, inscripciones ni un logo oficial inexistente. Los símbolos de proyectos son iconos de navegación, no recreaciones de marcas. Otra Noche consulta WhatsApp con el número que ya estaba publicado en el repositorio anterior; no envía mensajes automáticamente.
 
 ## Activos y fuentes verificadas
 
@@ -38,3 +38,13 @@ Esta es una alternativa de revisión: noindex y robots Disallow para no competir
 ## Verificación
 
 `node scripts/build.mjs`; `node --test tests/site.test.mjs`; `node --check src/assets/app.js`. Sin instalación. Pruebas de datos futuros, escape de contenido, navegación, recursos y ausencia de embeds privados/automáticos. Revisión visual y pruebas reales del navegador documentadas en QA.md.
+
+## Cambio de enfoque — noviembre 2026
+
+Conserva la composición aprobada: retrato, ALLEN KS grande, badge Dubstep/Bass, curvas y tarjetas redondeadas. Usa la paleta aportada: #0656BF, #0BD9D9, #F2E205, #F2F2F2, #0D0D0D y azules secundarios. Fondo blanco para conservar el recorte original.
+
+Seis rutas: inicio, musica.html, productos.html, historia.html, en-vivo.html y estudio.html. Inicio prioriza descarga gratuita y productos. Productos reúne stems/proyectos según disponibilidad, dos sample packs, clase individual de 60 minutos y espacio para futuros cursos. No hay precios, checkout ni reservas ficticias; las consultas abren un borrador de correo.
+
+Solo RIDDIM RIOT tiene descarga gratuita verificada, mediante su enlace actual Droploud. audioUrl y mp3DownloadUrl siguen vacíos: no hay MP3 locales ni almacenamiento R2 activado. El reproductor usa por ahora embeds públicos a pedido dentro de un espacio fijo. Los campos permiten incorporar reproducción y descarga nativas cuando existan archivos autorizados. La descarga externa requiere una elección explícita en un diálogo.
+
+Trabajo aislado en design/music-products-brand; no cambia main, allenks.com.ar, DNS ni proyectos Control/Spartans. La vista se sube al proyecto de prueba separado.

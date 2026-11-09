@@ -18,21 +18,30 @@
       "type": "Original",
       "artwork": "riddim-riot.jpg",
       "soundcloud": "https://soundcloud.com/allenksmusic/riddim-riot",
-      "download": "https://droploud.com/track/c1796463-b441-4956-a035-571a3252d75a"
+      "download": "https://droploud.com/track/c1796463-b441-4956-a035-571a3252d75a",
+      "freeDownload": true,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
     },
     {
       "title": "Damage",
       "artist": "Virtual Riot & DIESEL · ALLEN KS Remix",
       "type": "Remix",
       "artwork": "damage.jpg",
-      "soundcloud": "https://soundcloud.com/allenksmusic/virtual-riot-diesel-damage-allen-ks-remix-feat-shaquille-oneal"
+      "soundcloud": "https://soundcloud.com/allenksmusic/virtual-riot-diesel-damage-allen-ks-remix-feat-shaquille-oneal",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
     },
     {
       "title": "BUST IT",
       "artist": "ALLEN KS",
       "type": "Original · Visuals",
       "artwork": "bust-it.jpg",
-      "youtube": "ki1cUmKv_5Y"
+      "youtube": "ki1cUmKv_5Y",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
     }
   ],
   "studio": {

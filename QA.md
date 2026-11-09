@@ -1,22 +1,11 @@
-# Verificación — diseño aprobado
+# Verificación del nuevo enfoque
 
-- Anchos medidos con viewport real: 360, 390, 430, 768, 1440 y 1920. Sin scroll horizontal en los seis. El rectángulo interno del bitmap SVG excede su viewBox pero queda recortado y no participa del scroll.
-- Revisión visual de portada y secciones en desktop y móvil; comprobación adicional en Microsoft Edge.
-- Menú móvil abre/cierra y se cierra al navegar. Dubstep Academia despliega recursos reales. Historia ampliable con control nativo details.
-- SoundCloud RIDDIM RIOT: iframe oficial cargado; al pulsar Play el proveedor cambió a Pause, confirmando inicio de reproducción. Se detuvo retirando el iframe.
-- YouTube FL Studio: iframe oficial mostró el video Euronymous Walkthrough #1 con controles reales, sin autoplay. Set xRdMRdaIlZQ verificado con los controles reales del reproductor estándar de YouTube; se corrigió el fallo observado con youtube-nocookie. BUST IT utiliza su ID público verificado.
-- No reproducción automática ni iframes antes de la interacción. Fuentes musicales originales, sin música privada.
-- Tres pruebas automáticas aprobadas: navegación/activos/SEO, integridad de fuentes públicas y exclusión de datos ilustrativos, fechas futuras confirmadas y escape del contenido.
-- Build estático y sintaxis de JavaScript aprobados. No se necesitan dependencias para compilar.
+- Build estático correcto y cinco pruebas automáticas aprobadas: seis rutas/activos/SEO, portada preservada y navegación interna, fuentes públicas y única descarga confirmada, paleta oficial y fechas futuras/escape de datos.
+- Sintaxis de JavaScript y git diff --check correctos.
+- Inicio y productos medidos a 360, 390, 430, 768, 1440 y 1920 píxeles, sin scroll horizontal.
+- Reproductor reservado: 216 píxeles antes y después de cargar RIDDIM RIOT; widget oficial visible dentro del sitio, sin autoplay.
+- Diálogo de descarga muestra el enlace Droploud real y exige clic explícito para abrirlo. No simula un MP3 disponible.
+- Historia, estudio y sets tienen rutas independientes. Sin iframes antes de la interacción.
+- No se envían consultas ni se realizan compras. Productos usa consultas por correo; disponibilidad y precios quedan por definir. El segundo sample pack tiene una presentación tipográfica provisional, no una portada oficial inventada.
 
-Límites: no se probaron compras ni se enviaron mensajes; los enlaces sociales/contacto provienen de datos del usuario o fuentes públicas originales. Los proveedores pueden aplicar restricciones regionales o requerir otro toque en móviles. No se prometen cursos o descargas que no existan.
-
-## Verificación posterior al despliegue
-
-Cloudflare Pages confirmó éxito y 12/12 archivos cargados en el proyecto nuevo allenks-official-preview, dentro de la cuenta que la sesión Edge identifica como Ninshaarmy. La cuenta contiene la conexión a alandiaz145; no se tocaron Spartans Label, Control, dominios ni DNS. URL comprobada en Edge: https://allenks-official-preview.pages.dev/.
-
-Se volvieron a medir los seis anchos en esa URL: documento sin desborde horizontal y cero iframes al inicio. SoundCloud Damage mostró su widget y pista oficial; BUST IT mostró su reproductor oficial de YouTube. El set xRdMRdaIlZQ se vio efectivamente en reproducción después de cambiar al reproductor estándar. Capturas desktop y móvil guardadas y entregadas en el chat.
-
-GitHub Actions completó correctamente el build, las tres pruebas, la comprobación de sintaxis y la reproducibilidad de dist: https://github.com/alandiaz145/allenks-official-preview/actions/runs/42357122735.
-
-La compilación verificada y desplegada corresponde al código del commit ee7ddd7efd9fb825d9b42500e78702a55155ed6c. Esta actualización posterior agrega solo documentación. La prueba no incluye certificación Lighthouse/Core Web Vitals: el navegador de automatización no expone la API de tiempos. Se comprobaron carga visual de recursos, reproducción a pedido y ausencia de descargas de iframes en la entrada. El paquete estático ocupa aproximadamente 3 MB; el mayor activo es la imagen de referencia original autorizada.
+No se alteró el dominio principal ni se activó R2. La revisión es visual y funcional del sitio estático; no certifica compras, descarga nativa sin archivos ni compatibilidad de reproducción en todos los dispositivos físicos.
