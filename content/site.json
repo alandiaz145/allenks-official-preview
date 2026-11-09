@@ -18,29 +18,758 @@
       "type": "Original",
       "artwork": "riddim-riot.jpg",
       "soundcloud": "https://soundcloud.com/allenksmusic/riddim-riot",
-      "download": "https://droploud.com/track/c1796463-b441-4956-a035-571a3252d75a"
+      "download": "https://droploud.com/track/c1796463-b441-4956-a035-571a3252d75a",
+      "freeDownload": true,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
     },
     {
       "title": "Damage",
-      "artist": "Virtual Riot & DIESEL · ALLEN KS Remix",
+      "artist": "Virtual Riot & DIESEL Â· ALLEN KS Remix",
       "type": "Remix",
       "artwork": "damage.jpg",
-      "soundcloud": "https://soundcloud.com/allenksmusic/virtual-riot-diesel-damage-allen-ks-remix-feat-shaquille-oneal"
+      "soundcloud": "https://soundcloud.com/allenksmusic/virtual-riot-diesel-damage-allen-ks-remix-feat-shaquille-oneal",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
     },
     {
       "title": "BUST IT",
       "artist": "ALLEN KS",
-      "type": "Original · Visuals",
+      "type": "Original Â· Visuals",
       "artwork": "bust-it.jpg",
-      "youtube": "ki1cUmKv_5Y"
+      "youtube": "ki1cUmKv_5Y",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "JOY DUBZ",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-0.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/joy-dubz",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "CO-CREATOR",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-1.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/co-creator",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DUBSTEP WACHO! (FLUSH VIP VERSION)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-2.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/dubstep-wacho-flush-vip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BACK STRONG (more power)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-3.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/back-strong-more-power",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "LET IT OUT",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-4.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/let-it-out",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "E4RC - SPANISH RIDDIM (ALLEN KS Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-5.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/spanish-riddim-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WAY OF CHAOS (VIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-6.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/way-of-chaos-vip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BASS SO HEAVY",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-7.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/bass-so-heavy",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "GETTING STARTED",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-8.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/getting-started-174-bpm",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "LOOK AT ME GO!",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-9.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/look-at-me-now-master-16-feb",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WIPEOUT",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-10.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/wipeout",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Play No Games (FREE DOWNLOAD)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-11.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/play-no-games",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "MEGA CRUNCH",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-12.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/mega-crunch",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "OUT SPACE",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-13.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/out-space",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Desde Cero (isNiko03 Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-14.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/desde-cero-isniko03-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "from PIECES",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-15.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/from-pieces-3",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "OPEN SIGNAL",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-16.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/open-signal",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "we INFINITE",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-17.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/we-infinite-2",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "AEON",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-18.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/aeon-4",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "B.U.H.O",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-19.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/b-u-h-o-allen-ks-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "CHAOS SORCERER",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-20.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/chaos-sorcerer",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "CORRUPTION",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-21.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/mirage",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "FREEMAN",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-22.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/freeman",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Desde Cero (prod. by IVO)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-23.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/desde-cero",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "CHECK THIS OUT!",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-24.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/check-this-out",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "THE IMMORTALS",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-25.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/the-immortals",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DUBSTEP WACHO (VIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-26.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/dubstep-wacho-vip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Calcium - Downshift (ALLEN KS Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-27.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/downshift",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "🥽 Virtual Riot – Touhou Riddim (ALLEN KS Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-28.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/virtual-riot-touhou-riddim",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DROP THE BASS (FREE DOWNLOAD)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-29.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/drop-the-bass",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "50HMAN - MASSIVE VIP (ALLEN KS REMIX)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-30.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/massive-vip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "I7 - PROCESSORIZED (DEMONZ VIP) (ALLEN KS REMIX)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-31.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/i7-processorized-demonz-vip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "🗡️🪽 CONQUEROR (FREE DOWNLOAD)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-32.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/conqueror",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WAY OF CHAOS - Remix Contest Finalists (\"Continuous Mix\")",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-33.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/way-of-chaos-remix-contest-finalists-continuous-mix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BRING IT",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-34.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/bring-it",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Deadly Stomp (Full Version)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-35.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/deadly-stomp-full-version",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WAY OF CHAOS (Part 2)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-36.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/way-of-chaos-part-2",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "FOLLOW THE BASS (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "",
+      "soundcloud": "https://soundcloud.com/allenksmusic/follow-the-bass",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DAMNATION (Original Mix)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-38.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/damnation",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "RYNOME - KING GHIDORAH (ALLEN KS REMIX)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-40.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/rynome-king-ghidorah-allen-ks-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Don't Come Out The House (REMIX)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-41.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/dont-come-out-the-house-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BREAK IT DOWN (Extended Version)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-42.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/break-it-down",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Play No Games (This Is Dubstep) (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "",
+      "soundcloud": "https://soundcloud.com/allenksmusic/play-no-games-this-is-dubstep-clip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Annihilate (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "",
+      "soundcloud": "https://soundcloud.com/allenksmusic/annihilate-clip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Hell to Earth (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "",
+      "soundcloud": "https://soundcloud.com/allenksmusic/hell-to-earth-clip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Bending (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "",
+      "soundcloud": "https://soundcloud.com/allenksmusic/bending-clip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Aura (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "",
+      "soundcloud": "https://soundcloud.com/allenksmusic/aura-clip",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "(PREVIEW) Tearout Samplepack Vol. 1",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-48.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/tearout-sample-pack-vol-1",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "KILLSTREAK (Free Download)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-49.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/killstreak",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WARRIOR OF GOD",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-50.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/warrior-of-god",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Stoopid (DEZ Promotions Exclusive)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-51.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/stoopid",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "GODS MESSENGER",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-52.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/gods-messenger",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "YOINK",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-53.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/yoink",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "GO DOWN",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-54.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/go-down",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BATIKZ - WARLINGS (ALLEN KS Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-55.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/batikz-warlings-allen-ks-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "GHOSTEMANE - EURONYMOUS (ALLEN KS Bootleg)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-56.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/ghostemane-euronymous-allen-ks-bootleg",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DUBSTEP WACHO! - Dubssive (ft. ALLEN KS)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-57.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/dubstep-wacho-dubssive-ft-allen-ks",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WHO'S BACK (CG EXCLUSIVE)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-58.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allen-ks-whos-back",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Deadly Stomp (CLIP)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-59.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allen-ks-deadly-stomp",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BUST IT",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-60.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/bust-it-remix-contest",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DUBSTEP IS LIFE",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-62.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/dubstep-is-life",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "LEGENDARY (ALLEN KS REMIX)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-63.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/brexi-legendary",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WAY OF CHAOS (Part 1)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-64.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/way-of-chaos",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "Virtual Riot - Pray For Riddim (ALLEN KS Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-65.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/pray-for-riddim-allen-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BACK STRONG",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-66.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/back-strong",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "SHOCK DAMAGE",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-67.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allen-shock-damage",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "DUBSTEP PROMO MIX [ 2 0 2 0 ]",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-68.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allen-dubstep-promo-mix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "WTF?!",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-69.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allen-what-the-fxck",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "PROYECTIL",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-70.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allen-proyectil",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "BLAZE IT UP",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-71.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/blaze-it-up",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "INSOMNIA (ALLEN KS Remix)",
+      "artist": "ALLEN KS",
+      "type": "Remix",
+      "artwork": "catalog-72.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/insomnia-remix",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
+    },
+    {
+      "title": "FALLOUT (ft. Hellboy)",
+      "artist": "ALLEN KS",
+      "type": "Publicación",
+      "artwork": "catalog-73.jpg",
+      "soundcloud": "https://soundcloud.com/allenksmusic/allenks-hellboy-fallout",
+      "freeDownload": false,
+      "audioUrl": null,
+      "mp3DownloadUrl": null
     }
   ],
   "studio": {
-    "title": "Euronymous — Walkthrough #1",
+    "title": "Euronymous â€” Walkthrough #1",
     "video": "TVL0ZiSOXPg"
   },
   "live": {
-    "title": "ALLEN KS · DJ set en vivo #1",
+    "title": "ALLEN KS Â· DJ set en vivo #1",
     "video": "xRdMRdaIlZQ",
     "start": 384,
     "description": "Otra Noche ft. Dancing Budhas"
